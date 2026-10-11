@@ -1,0 +1,11 @@
+CUBE YORK - versione app (schermo intero)
+
+1. Estrai questo zip sul computer o sul telefono.
+2. Crea un account gratuito su github.com, poi un nuovo repository pubblico (per esempio "cube-york").
+3. Nel repository: "Add file" -> "Upload files" e carica TUTTI i file estratti (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png), non la cartella.
+4. Vai in Settings -> Pages. In "Build and deployment" scegli "Deploy from a branch", branch "main", cartella "/ (root)", poi Save.
+5. Dopo uno o due minuti il gioco è online su https://TUONOME.github.io/cube-york/
+6. Apri quel link con Chrome sul telefono, menu (tre puntini) -> "Installa app" oppure "Aggiungi a schermata Home".
+7. Apri il gioco dall'icona: parte a schermo intero e in orizzontale, senza la barra del browser.
+
+La prima apertura richiede internet (scarica il motore grafico); dopo il gioco resta salvato sul telefono.
